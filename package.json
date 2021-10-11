@@ -1,0 +1,25 @@
+{
+  "name": "moetoken",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quan191/MoeToken.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quan191/MoeToken/issues"
+  },
+  "homepage": "https://github.com/quan191/MoeToken#readme",
+  "description": "",
+  "devDependencies": {
+    "openzeppelin-solidity": "^4.3.2"
+  }
+}
